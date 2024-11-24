@@ -1,0 +1,40 @@
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ürün Kartları</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="modal.css">
+    <link rel="stylesheet" href="header.css">
+</head>
+<body>
+    <header>
+        <img src="image/logo.jpg" class="logo"/>
+        <div class="titles">
+            <h1>AlgoVision</h1>
+            <h2>Geleceği Şekillendiren Teknolojiler</h2>
+        </div>
+        <nav class="menu">
+            <ul>
+                <li><a href="#">Anasayfa</a></li>
+                <li><a href="main.html" class="active">Ürünler</a></li>
+                <li><a href="#">İletişim</a></li>
+            </ul>
+        </nav>
+      </header>
+    <div class="container">
+        <div class="cards-container" id="cards-container">
+
+        </div>
+    </div>
+    <div id="product-modal" class="modal">
+        <div class="modal-content">
+            <span id="close-modal" class="close">&times;</span>
+            <h2 id="product-title"></h2>
+            <img id="modal-image" src="" alt="">
+            <p id="product-description"></p>
+        </div>
+    </div>     
+    <script src="main.js"></script>
+</body>
+</html>

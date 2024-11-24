@@ -1,0 +1,212 @@
+{
+    "products":[
+    {
+      "id": 1,
+      "productImage": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/129743-1_small.jpg",
+      "productName": "Akıllı Telefon",
+      "rating": 4.5,
+      "price": 4999.99,
+      "description": "Güçlü performans ve yüksek çözünürlüklü kamera."
+    },
+    {
+      "id": 2,
+      "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_8ojeeG_oXHrD0BB7mBTaLlDhdr9kNns0JQ&s",
+      "productName": "Dizüstü Bilgisayar",
+      "rating": 4.8,
+      "price": 8999.99,
+      "description": "Hafif tasarım ve ultra hızlı işlemci."
+    },
+    {
+      "id": 3,
+      "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/og-airpods-4-202409?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1724144134014",
+      "productName": "Kablosuz Kulaklık",
+      "rating": 3.3,
+      "price": 799.99,
+      "description": "Mükemmel ses kalitesi ve uzun pil ömrü."
+    },
+    {
+      "id": 4,
+      "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-FCjcdkSqh5VRUNl03phNd-KJE5p2ZoMCSA&s",
+      "productName": "Akıllı Saat",
+      "rating": 4.7,
+      "price": 1299.99,
+      "description": "Fitness ve sağlık takibi özellikleriyle donatılmış."
+    },
+    {
+      "id": 5,
+      "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwfFRNtmYuznU60YRikAlkHNfP4QmZPG1cCQ&s",
+      "productName": "Tablet",
+      "rating": 4.6,
+      "price": 3599.99,
+      "description": "Büyük ekran ve uzun pil ömrü."
+    },
+    {
+      "id": 6,
+      "productImage": "https://www.desibela.com/productimages/139098/big/jbl_0005_jbl-go4-bluetooth-hoparlor-ip67-pembe-kablosuz-hoparlorler-jbl-1136201-25-b.jpg",
+      "productName": "Bluetooth Hoparlör",
+      "rating": 4.4,
+      "price": 499.99,
+      "description": "Kompakt tasarım ve güçlü bas performansı."
+    },
+    {
+      "id": 7,
+      "productImage": "https://m.media-amazon.com/images/I/41eqIOhaiQL._AC_.jpg",
+      "productName": "Oyun Klavyesi",
+      "rating": 4.9,
+      "price": 749.99,
+      "description": "RGB aydınlatmalı ve mekanik tuşlar."
+    },
+    {
+      "id": 8,
+      "productImage": "https://m.media-amazon.com/images/I/61a7iAc9FEL._AC_UF1000,1000_QL80_.jpg",
+      "productName": "Oyun Faresi",
+      "rating": 4.6,
+      "price": 399.99,
+      "description": "Hassas sensör ve ergonomik tasarım."
+    },
+    {
+      "id": 9,
+      "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf8JzNmgjsbqYSxI6n5PL3Bmf2Jm1UnUwrXg&s",
+      "productName": "Akıllı Lamba",
+      "rating": 4.2,
+      "price": 299.99,
+      "description": "WiFi bağlantılı ve renkli ışık seçenekleri."
+    },
+    {
+      "id": 10,
+      "productImage": "https://m.media-amazon.com/images/I/71GfLIrtFUL._AC_UF1000,1000_QL80_.jpg",
+      "productName": "Powerbank",
+      "rating": 4.8,
+      "price": 199.99,
+      "description": "10.000 mAh kapasiteli hızlı şarj cihazı."
+    },
+    {
+      "id": 11,
+      "productImage": "https://m.media-amazon.com/images/I/513AEUWYhwL.jpg",
+      "productName": "Kamera",
+      "rating": 4.7,
+      "price": 5499.99,
+      "description": "Yüksek çözünürlüklü lens ve 4K video kaydı."
+    },
+    {
+      "id": 12,
+      "productImage": "https://m.media-amazon.com/images/I/41IGuXBZUuL._AC_UF1000,1000_QL80_.jpg",
+      "productName": "Monitör",
+      "rating": 4.8,
+      "price": 2999.99,
+      "description": "4K çözünürlük ve geniş renk gamı."
+    },
+    {
+      "id": 13,
+      "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImCRZEF4WTJ1utdcYaR45r3TvrRbNMUsmeA&s",
+      "productName": "Mikrofon",
+      "rating": 4.5,
+      "price": 799.99,
+      "description": "Kristal netlikte ses kaydı için ideal."
+    },
+    {
+      "id": 14,
+      "productImage": "https://m.media-amazon.com/images/I/61wA2ulrTJS._AC_UF1000,1000_QL80_.jpg",
+      "productName": "Yazıcı",
+      "rating": 4.6,
+      "price": 1399.99,
+      "description": "Kablosuz bağlantı ve yüksek hızda baskı."
+    },
+    {
+      "id": 15,
+      "productImage": "https://m.media-amazon.com/images/I/810nxXHdJ1L.jpg",
+      "productName": "Mouse Pad",
+      "rating": 4.3,
+      "price": 99.99,
+      "description": "Kaymaz yüzey ve büyük boyut."
+    },
+    {
+      "id": 16,
+      "productImage": "https://via.placeholder.com/150",
+      "productName": "Çay Makinesi P1",
+      "rating": 4.4,
+      "price": 599.99,
+      "description": "Pratik kullanım ve çift hazneli tasarım."
+    },
+    {
+      "id": 17,
+      "productImage": "https://via.placeholder.com/150",
+      "productName": "Elektrikli Süpürge Q1",
+      "rating": 4.7,
+      "price": 2199.99,
+      "description": "Yüksek emiş gücü ve sessiz çalışma."
+    },
+    {
+      "id": 18,
+      "productImage": "https://via.placeholder.com/150",
+      "productName": "Akıllı Termos R1",
+      "rating": 4.6,
+      "price": 299.99,
+      "description": "Sıcaklık göstergeli ve uzun süre koruma."
+    },
+    {
+      "id": 19,
+      "productImage": "https://via.placeholder.com/150",
+      "productName": "Ev Güvenlik Kamerası S1",
+      "rating": 4.8,
+      "price": 1799.99,
+      "description": "Gece görüşü ve hareket algılama özellikli."
+    },
+    {
+      "id": 20,
+      "productImage": "https://via.placeholder.com/150",
+      "productName": "Router T1",
+      "rating": 4.5,
+      "price": 999.99,
+      "description": "Hızlı internet ve geniş kapsama alanı."
+    },
+    {
+      "id": 21,
+      "productImage": "https://via.placeholder.com/150",
+      "productName": "Akıllı Anahtar U1",
+      "rating": 4.4,
+      "price": 399.99,
+      "description": "Uzaktan kontrol ve enerji tasarrufu."
+    },
+    {
+      "id": 22,
+      "productImage": "https://via.placeholder.com/150",
+      "productName": "Klavye Seti V1",
+      "rating": 4.7,
+      "price": 649.99,
+      "description": "Sessiz tuşlar ve kablosuz bağlantı."
+    },
+    {
+      "id": 23,
+      "productImage": "https://via.placeholder.com/150",
+      "productName": "Taşınabilir Projektör W1",
+      "rating": 4.8,
+      "price": 2999.99,
+      "description": "Full HD çözünürlük ve taşınabilir tasarım."
+    },
+    {
+      "id": 24,
+      "productImage": "https://via.placeholder.com/150",
+      "productName": "Hava Temizleyici X1",
+      "rating": 4.6,
+      "price": 1599.99,
+      "description": "Yüksek filtreleme gücü ve sessiz çalışma."
+    },
+    {
+      "id": 25,
+      "productImage": "https://via.placeholder.com/150",
+      "productName": "Drone Y1",
+      "rating": 4.9,
+      "price": 4599.99,
+      "description": "4K kamera ve uzun menzil özellikli."
+    },
+    {
+      "id": 26,
+      "productImage": "https://via.placeholder.com/150",
+      "productName": "Elektrikli Scooter Z1",
+      "rating": 4.8,
+      "price": 7599.99,
+      "description": "Uzun menzil ve hızlı şarj özelliği."
+    }
+  ]}
+  

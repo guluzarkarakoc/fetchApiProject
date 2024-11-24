@@ -1,0 +1,11 @@
+{
+  "name": "fetchapiproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start:server": "json-server --watch api/productDb.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
